@@ -1,6 +1,3 @@
-# 💫 About Me
-I'm a Data Engineer who works with diverse data systems, turning raw data into reliable decisions. 
-
 ## Tech stack
 
 | Category | Technologies |
